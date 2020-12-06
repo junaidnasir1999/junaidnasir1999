@@ -9,5 +9,5 @@
 - 👉 My Startup www.orbixcode.com 👈 
 - 📫 How to reach me: junaednaser@gmail.com
 - ⚡ Fun fact: whole day spent in thinking
-- 🚀🔍 Explroing hidden technlogy
+- 🚀🔍 Explroing hidden technology
 
