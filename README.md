@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on React and Mongodb
-- 🌱 I’m currently learning Kotlin and Swift
+- 🌱 I’m currently learning MERN STACK
 - 👯 I’m looking to collaborate on my startup
 - 🤔 I’m looking for help with DataScience
 - 👉 My Startup www.orbixcode.com 👈 
