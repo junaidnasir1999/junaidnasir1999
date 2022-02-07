@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on React and Mongodb
+- 🔭 I’m currently working on React and Mongo DB
 - 🌱 I’m currently learning MERN STACK
 - 👯 I’m looking to collaborate on my startup
 - 🤔 I’m looking for help with DataScience
