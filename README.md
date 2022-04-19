@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on React and Mongo DB
 - 🌱 I’m currently learning MERN STACK
 - 👯 I’m looking to collaborate on my startup
-- 🤔 I’m looking for help with DataScience
 - 👉 My Startup www.orbixcode.com 👈 
 - 📫 How to reach me: junaednaser@gmail.com
 - ⚡ Fun fact: Whole day spent in thinking
