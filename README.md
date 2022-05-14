@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on React Roadmap
+- 🔭 I’m currently working on React roadmap
 - 🌱 I’m currently learning MERN STACK
 - 👯 I’m looking to collaborate on my startup
 - 👉 My Startup www.orbixcode.com 👈 
