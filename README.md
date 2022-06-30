@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on React roadmap
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 Toward's Full Stack Development
 - 👯 I’m looking to collaborate on my startup
 - 👉 My Startup www.orbixcode.com 👈 
 - 📫 How to reach me: junaednaser@gmail.com
