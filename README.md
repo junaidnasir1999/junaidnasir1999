@@ -17,7 +17,7 @@
 src="https://img.shields.io/twitter/follow/JunaidNasir?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
 /></a>
 
-![image title](https://rushter.com/counter.svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
