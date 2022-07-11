@@ -13,6 +13,12 @@
 
 - 📫 How to reach me **junaednaser@gmail.com**
 
+<a href="https://www.twitter.com/FashadAhmed" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/FashadAhmed?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
+/></a>
+
+![image title](https://rushter.com/counter.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@m_junaid1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@m_junaid1999" height="30" width="40" /></a>
