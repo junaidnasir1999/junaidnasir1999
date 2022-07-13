@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **junaednaser@gmail.com**
 
-<a href="https://twitter.com/m_junaid1999" target="_blank" rel="noreferrer"><img
+<a href="https://twitter.com/m_junaid1999" target="_blank" rel="noreferrer"><img 
 src="https://img.shields.io/twitter/follow/JunaidNasir?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
 /></a>
 
