@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Junaid</h1>
-<h3 align="center">FrontEnd Developer</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidnasir1999&label=Profile%20views&color=0e75b6&style=flat" alt="junaidnasir1999" /> </p>
 
-- 🔭 I’m currently working on **https://roadmap.sh/react**
+- 🔭 I’m currently working on **https://roadmap.sh/devops**
 
-- 🌱 I’m currently learning **JavaScript, React, Node JS, Mango Db**
-
-- 👯 I’m looking to collaborate on **https://orbixcode.com/**
-
-- 💬 Ask me about **HTML5, CSS3, BootStrap5**
+- 🌱 I’m currently learning * Jenkins | Docker Swarm*
 
 - 📫 How to reach me **junaednaser@gmail.com**
 
