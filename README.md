@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **https://roadmap.sh/devops**
 
-- 🌱 I’m currently learning * Jenkins | Docker Swarm*
+- 🌱 I’m currently learning  Jenkins | Docker Swarm
 
 - 📫 How to reach me **junaednaser@gmail.com**
 
